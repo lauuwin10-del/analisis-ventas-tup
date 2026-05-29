@@ -32,7 +32,7 @@ plt.xlabel("Producto")
 plt.ylabel("Cantidad Vendida")
 
 # Guardar gráfico
-plt.savefig("../resultados/grafico_ventas.png")
+plt.savefig("resultados/grafico_ventas.png")    
 
 # Mostrar gráfico
 plt.show()
